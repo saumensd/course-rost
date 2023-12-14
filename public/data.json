@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to C Programming",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "credit":1,
+        "image": "../public/Asset/Rectangle 2-1.png",
+        "price": 15000,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 2,
+        "name": "Introduction to Algorithms",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "credit":2,
+        "image": "../public/Asset/Rectangle 2-2.png",
+        "price": 25000,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 3,
+        "name": "Introduction to C++ for DSA",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "credit": 10,
+        "image": "../public/Asset/Rectangle 3-1.png",
+        "price": 10000,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 4,
+        "name": "Basic Data  Structures",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "credit":5,
+        "image": "../public/Asset/Rectangle 2-2.png",
+        "price": 4575,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 5,
+        "name": "Introduction to OOP Python",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "credit":5,
+        "image": "../public/Asset/Rectangle 2.png",
+        "price": 35000,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 6,
+        "name": "Software Engineering",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "credit":2,
+        "image": "../public/Asset/Rectangle 2-2.png",
+        "price": 19000,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 7,
+        "name": "AWS, Cloud Computing",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "credit":5,
+        "image": "../public/Asset/Rectangle 2-2.png",
+        "price": 35000,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 8,
+        "name": "Database (MySQL)",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "credit":5,
+        "image": "../public/Asset/Rectangle 2-6.png",
+        "price": 19000,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 9,
+        "name": "Problem-Solving Part",
+        "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "credit":2,
+        "image": "../public/Asset/Rectangle 2-4.png",
+        "price": 23000,
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    }
+]
